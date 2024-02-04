@@ -9,7 +9,7 @@ We have been given Hotel data and asked to analyze Revenue Growth for each Hotel
 - Developed the SQL query using ``LEFT JOIN`` to combine tables & transfer data model to Power BI
 - Connected Power BI to the database using above query in ``Advanced Options under Import Connection mode``
 - Created New Columns & ``New Measures`` with the help of **DAX** queries in Power BI
-- Visualize data and summarized findings altogether in a Dashboard
+- Visualized data with ``sparklines(along with trendine for each)`` and summarized findings altogether in a Dashboard
 
 ### Insights
 
