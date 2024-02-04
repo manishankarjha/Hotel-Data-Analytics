@@ -30,3 +30,6 @@ We have been given Hotel data and asked to analyze Revenue Growth for each Hotel
 - There is no such need to increase the parking size as of now.
 - Management should provide certain incentives for TA/TO with the maximum number of customers.
 - Management also needs to ensure that online booking channels are reliable and available.
+
+![Dashboard image-1](https://github.com/manishankarjha/Hotel-Data-Analytics/blob/main/Dashboard%20images/Hotel%20Analytics%20Dashboard_page-0001.jpg)
+![Dashboard image-2](
