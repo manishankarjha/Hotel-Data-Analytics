@@ -8,6 +8,7 @@ We have been given Hotel data and asked to analyze Revenue Growth for each Hotel
 - Created a Database & imported Excel data file in ``SQL Server Management Studio`` to populate this database
 - Developed the SQL query using ``LEFT JOIN`` to combine tables & transfer data model to Power BI
 - Connected Power BI to the database using above query in ``Advanced Options under Import Connection mode``
+- Created New Columns & ``New Measures`` with the help of **DAX** queries in Power BI
 - Visualize data and summarized findings altogether in a Dashboard
 
 ### Insights
@@ -17,9 +18,12 @@ We have been given Hotel data and asked to analyze Revenue Growth for each Hotel
 - Average *Discount* has been ``26%`` & People spent fairly 3 to 4 nights in a Hotel booking.
 - Months from ``July to October`` are a high time for Hotel Industries with maximum surge in **August**.
 - Out of ``100K total bookings``, guests stayed for ``368K total nights`` & around ``8700 required car parking space`` which is 2% of total.
-- As **BB**(Bed & Breakfast) is the cheapest meal, most customers``(~80 K)`` preferred it as an option.  *(SC-Self Catering, HB-Half Board, FB-Full Board)*
-- Maximum Bookings have been done through ``Online TA`` (~57%) and ``Offline TA/TO`` (~17%). *(TA-Travel Agents, TO-Tour Operators)*
+- As **BB**(Bed & Breakfast) is the cheapest meal, most customers``(~80 K)`` preferred it as an option.
+  *(SC-Self Catering, HB-Half Board, FB-Full Board)*
+- Maximum Bookings have been done through ``Online TA`` (~57%) and ``Offline TA/TO`` (~17%).
+  *(TA-Travel Agents, TO-Tour Operators)*
 
+***
 ### Recommendations
 
 - The Hotel revenue is continuously increasing on yearly basis & management should focus build Customer satisfaction to increase repeats.
